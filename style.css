@@ -131,7 +131,7 @@ body {
     width: 30%;
 }
 
-@media screen and (max-width:1140px) {
+@media screen and (max-width:1070px) {
     .main .maintop .topRight {
         display: inline-grid;
         font-size: 15px;
@@ -286,7 +286,7 @@ body {
     margin-left: 120px;
 }
 
-@media screen and (max-width: 1140px) {
+@media screen and (max-width: 1070px) {
     .main .maintop .topLeft {
         width: 100%;
         display: flex;
@@ -473,7 +473,7 @@ body {
 }
 
 .main .maintop .topLeft .delivered .bottom .view {
-    width: 386px;
+    width: 60%;
     display: inline-flex;
     justify-content: space-between;
 }
@@ -683,7 +683,7 @@ body {
 }
 
 .main .maintop .topLeft .cancelled .bottom .view {
-    width: 386px;
+    width: 60%;
     display: inline-flex;
     justify-content: space-between;
 }
